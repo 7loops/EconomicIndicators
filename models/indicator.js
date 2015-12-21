@@ -1,5 +1,5 @@
 var mongoose   = require('mongoose');
-mongoose.connect('mongodb://localhost/Indicator');
+mongoose.connect('mongodb://localhost/forex');
 
 var Schema = mongoose.Schema;
 
